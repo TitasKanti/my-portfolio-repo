@@ -1,0 +1,14 @@
+.clr-orange{
+    color: orange;
+}
+a:hover{
+    color:white;
+    background-image: linear-gradient(blue, navy);
+    padding-bottom: 20px;
+}
+.button-imp{
+    color:aqua;
+    text-decoration: none;
+    background-image:linear-gradient(orange, red);
+    padding: 10px 20px;
+}
